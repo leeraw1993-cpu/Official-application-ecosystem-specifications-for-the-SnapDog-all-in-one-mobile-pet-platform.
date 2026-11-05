@@ -1,0 +1,2 @@
+# Official-application-ecosystem-specifications-for-the-SnapDog-all-in-one-mobile-pet-platform.
+SnapDog app by RAW COMPANY. All-in-one UK pet network replacing separate apps. Features live 3D walk replays, 60s lost dog radius alerts, automated nightly AI collar health checks, tap-to-share digital pet passports, AI vet photo-triage, route planners, home privacy zones, and live dog-friendly local business map directories.
